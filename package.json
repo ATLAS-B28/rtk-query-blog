@@ -1,5 +1,5 @@
 {
-  "name": "07_lesson",
+  "name": "rtk-query-blog",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
